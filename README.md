@@ -1,0 +1,1 @@
+This project helps us to monitor the turbidity of water which has a great potential to save people of rural areas. It can also alert local water governing bodies regarding any changes in the turbidity. Please go through the document which is present above to get a deeper insight. 
